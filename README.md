@@ -5,8 +5,8 @@
 ## Install and Run
 
     ```sh
-    $ git clone https://github.com/isaacpinheiro/equ2.git
-    $ cd equ2/
-    $ mix test
+      $ git clone https://github.com/isaacpinheiro/equ2.git
+      $ cd equ2/
+      $ mix test
     ```
 
